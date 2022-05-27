@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "CozyCal Scheduling"
+  description: "Publish your schedule to allow clients to book support calls, video meetings, and appointments with you. New events are automatically added your Basecamp schedule."
+  website: "https://www.cozycal.com/?ref=basecamp"
+  icon: "cozycal.png"
+  category: 7
+-
   name: "Git Helpers"
   description: "Link Basecamp to-do's and GitHub pull requests. Close to-do's automatically when PR's are merged, and keep to-do's up-to-date with PR status."
   website: "https://githelpers.com"
